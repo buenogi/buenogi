@@ -5,7 +5,8 @@
  Meu primeiro contato com programação foi na análise de experimentos conduzidos ao longo da minha formação.   
  Hoje desempenho projetos de análise e vizualização de dados.  
  
- ![buenogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buenogi&show_icons=false&theme=catppuccin_latte&rank_icon=github)
+![buenogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buenogi&show_icons=false&theme=catppuccin_latte&rank_icon=github)
+ 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenogi&layout=compact&theme=catppuccin_latte)
 
  Contatos:  
