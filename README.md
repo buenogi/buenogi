@@ -17,7 +17,7 @@ Minha habilidade com dados começou durante a análise de experimentos realizado
 
 # Projetos
 
-## Testagem de Animais USDA 🐁
+## [Testagem de Animais USDA 🐁](https://github.com/buenogi/Testes-Animais-USDA2016)
 
 ### Resumo: 
 Anualmente, desde 1971, o USDA (Departamento de Agricultura dos Estados Unidos) coleta as informações de animais empregados em diferentes instâncias de experimentação de acordo com a exposição a dor e ao estresse.  Esta prática vai de encontro a Lei de Bem-estar Animal (Animal Welfare Act), assinada em 1966. Este relatório foi realizado com objetivo descrever os dados reportados ao USDA a respeito da utilização de animais em pesquisa nos EUA em 2016. 
@@ -30,7 +30,7 @@ A partir da utilização de metodologias de análise exploratória de dados e in
 
 *Dados*: [Animal Testing in the US in 2016](https://www.kaggle.com/datasets/mmsant/animals-testing-in-the-us-in-2016)
 
-## Analise de crédito 💳
+## [Analise de crédito 💳](https://github.com/buenogi/Analise-de-credito)
 
 ### Resumo: 
 Avaliar o perfil do cliente por meio de características sociodemográficas, patrimoniais e histórico de crédito é crucial para a análise de risco na concessão de crédito, proporcionando maior segurança às instituições na identificação de credores confiáveis e de maior risco.
