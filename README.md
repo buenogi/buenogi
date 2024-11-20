@@ -2,7 +2,7 @@
 
 Sou uma profissional em formação mas com uma trajetória acadêmica sólida. Atualmente, sou graduanda em Estatística e possuo Mestrado em Biociências e Biotecnologia, além de uma graduação em Medicina Veterinária.
 
-Minha habilidade com dados começou durante a análise de experimentos realizados ao longo de minha formação. Hoje, aplico meu conhecimento para conduzir projetos especializados em análise e visualização de dados, buscando sempre extrair informações valiosas que impulsionem a tomada de decisões de forma assertiva. Estou comprometida em continuar aprimorando minha expertise para enfrentar desafios analíticos com precisão e inovação. Minha base mais sólida em programação é em R, minha linguagem mãe, mas desenvolvo projetos com Python e ja tive contato com JavaScript, liguagem de consulta a banco de dados (SQL), liguagens de formatação (markdown, HTML), estilização (CSS) e ferramentas como PowerBi e Google Data Studio. 
+Minha habilidade com dados começou durante a análise de experimentos realizados ao longo de minha formação. Hoje, aplico meu conhecimento para conduzir projetos especializados em análise e visualização de dados, buscando sempre extrair informações que impulsionem a tomada de decisões de forma assertiva. Estou comprometida em continuar aprimorando minha expertise para enfrentar desafios analíticos com precisão e inovação.
 
 ### GitHub Stats
 <div>
